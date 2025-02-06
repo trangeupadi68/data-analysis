@@ -1,5 +1,4 @@
-# data-analysis
-Daikin Power BI Dashboard - README
+# Daikin Power BI Dashboard - README
 **Overview**
 This document is a confidential PDF report containing insights from the Daikin Power BI Dashboard. It provides a detailed analysis of revenue trends, customer insights, and service performance. All numerical data in the report has been hidden for confidentiality.
 **Contents**
